@@ -19,6 +19,8 @@ Virtual Enviorment
   - `poetry update <library>`
   - Display the package information: `poetry show`
   - Update the dependencies according to the pyproject.toml file:  `poetry update`
+  - poetry config --list
+  - poetry config virtualenvs.in-project true
 
 
 * [virtualenv]
