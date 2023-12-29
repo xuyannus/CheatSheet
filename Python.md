@@ -5,7 +5,7 @@ https://github.com/fabioperez/cheat-sheets/blob/master/python/Effective-Python-s
 
 Python Versions: pyenv
 * pyenv versions
-* pyenv install XXX
-* pyenv local XXX
+* pyenv install 3.8.17
+* pyenv local 3.8.17
 * which python
 
