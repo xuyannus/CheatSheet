@@ -12,9 +12,9 @@ Python Versions: pyenv
 Virtual Enviorment
 * [poetry]
   - `pip install poetry`
-  - `poetry install`
-  - `poetry shell`
-  - `poetry add <library>`
+  - Installing dependencies: `poetry install`
+  - Activate the Python virtual environment: `poetry shell`
+  - Install a Python package: `poetry add <library>`
   - `poetry remove <library>`
   - `poetry update <library>`
   - Display the package information: `poetry show`
